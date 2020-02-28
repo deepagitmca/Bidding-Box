@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+#total_votes
+{
+	font-size:30px;
+	color:#FE2E2E;
+	font-weight:bold;
+}
+.div
+{
+	border:1px solid #E6E6E6;
+	clear:both;
+	margin-top:20px;
+	height:100px;
+	width:400px;
+	padding:10px;
+	margin-left:30px;
+	border-radius:3px;
+}
+.div p
+{
+	margin:0px;
+	font-size:20px;
+	text-align:left;
+	color:black;
+}
+
+.php
+{
+	margin-top:10px;
+	width:30px;
+	height:30px;
+	float:left;	
+}
+
+input[type="submit"]
+{
+	border:none;
+	background:none;
+	background-color:#585858;
+	width:100px;
+	height:50px;
+	color:white;
+	border-radius:3px;
+	font-size:17px;
+	margin-top:20px;
+}
